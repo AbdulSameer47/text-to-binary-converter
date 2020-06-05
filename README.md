@@ -1,6 +1,10 @@
 # text-to-binary-converter
 an applicationwhich converts the given text to its binary form
 
+software used:
+android studio
+
+made with kotlin programing language
 
 the main objective of the project is to get a string from user and convert that string to its corresponding binary value .
 1.first i have made the layout with one input field button and text view
